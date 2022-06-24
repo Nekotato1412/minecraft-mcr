@@ -7,6 +7,7 @@
 - Add the ability to quit without saving
 - Add old sound effects
 - Automatic update system via Github 
+- Change version info on title screen
 
 ## Setup
 - ~~Setup the Project~~
