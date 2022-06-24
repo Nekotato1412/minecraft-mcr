@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcr",
+  "name": "Minecraft Refigured",
+  "description": "Starting from the bottom.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Best Waifu"],
+  "credits": "Notch & Mojang, for making this version.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
