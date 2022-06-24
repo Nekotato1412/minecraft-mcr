@@ -9,5 +9,5 @@
 ## Setup
 - ~~Setup the Project~~
 - ~~Overwrite the pause menu~~
-- ~~ Add Helper Functions~~
+- ~~Add Helper Functions~~
 - Add better mappings
