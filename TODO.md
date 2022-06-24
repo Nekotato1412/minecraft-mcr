@@ -1,7 +1,7 @@
 # Todo
 *Version 1.7.11r*
 <br>
-*\[Update name pending\]*
+*The Nostalgia Update*
 
 ## Features
 - Add the ability to quit without saving
